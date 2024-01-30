@@ -15,7 +15,7 @@
 
 # To build your own To Do List:
 
-1. Create a MongoDB Atlas account and obtain connection string
+1. Create a MongoDB Atlas account and obtain the connection string
    See this [tutorial](https://www.mongodb.com/docs/guides/atlas/connection-string/) for more info.
 
 2. Fork or Clone
@@ -24,7 +24,7 @@
 3. Create .env file
    > create `.env` file at the root of project
    
-   > inside .env file add `DB_CONNECT` as env variable and paste your MongoDB Atlas connecting string:
+   > inside .env file add `DB_CONNECT` as env variable and paste your MongoDB Atlas connection string:
 
 ```
 // For example
