@@ -23,6 +23,7 @@
 
 3. Create .env file
    > create `.env` file at the root of project
+   
    > inside .env file add `DB_CONNECT` as env variable and paste your MongoDB Atlas connecting string:
 
 ```
