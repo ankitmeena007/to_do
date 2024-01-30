@@ -1,7 +1,7 @@
 # To Do List
 
 ## Built using HTML, CSS, Javascript and EJS
-## Server: Node
+## requirements: Node.js Mongodb atlas account
 ## Database used: Mongodb
 ## Hosted on: Vercel
 
