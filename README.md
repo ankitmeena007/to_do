@@ -13,7 +13,7 @@
 ![image](https://github.com/ankitmeena007/to_do/assets/63893740/3c5bc120-2ecb-4042-b1fa-c08642734f77)
 
 
-# To build you own To Do List:
+# To build your own To Do List:
 
 1. Create a MongoDB Atlas account and obtain connection string
    See this [tutorial](https://www.mongodb.com/docs/guides/atlas/connection-string/) for more info.
