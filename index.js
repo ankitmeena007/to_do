@@ -29,7 +29,7 @@ mongoose
   .connect(mongoURI, connectionParams);
 //
 
-//mongoose.connect("mongodb+srv://ankitmeena007:kaka@jiji@fc7e9d21@cluster0.v5i8l.mongodb.net/todolistDB", {useNewUrlParser: true});
+//mongoose.connect(mongoURI, {useNewUrlParser: true});
 
 const itemsSchema = {
   name: String
