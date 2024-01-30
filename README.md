@@ -1,7 +1,7 @@
 # To Do List
 
 ## Built using HTML, CSS, Javascript and EJS
-## requirements: Node.js Mongodb atlas account
+## requirements: Node.js, Mongodb atlas account
 ## Database used: Mongodb
 ## Hosted on: Vercel
 
@@ -9,6 +9,7 @@
 
 
 ## Live working [demo](https://to-do-007.vercel.app/) 
+
 
 
 Credits : - [Web Dev Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp)
