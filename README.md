@@ -18,8 +18,7 @@
 1. Create a MongoDB Atlas account and obtain the connection string
    See this [tutorial](https://www.mongodb.com/docs/guides/atlas/connection-string/) for more info.
 
-2. Fork or Clone
-   Fork or clone this repo.
+2. Fork or Clone this repo.
 
 3. Create .env file
    > create `.env` file at the root of project
