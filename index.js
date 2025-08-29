@@ -25,6 +25,7 @@ const connectionParams = {
 };
 
 //Connect to mongodb atlas (connect your application)
+mongoose.set('strictQuery', true);
 mongoose
   .connect(mongoURI, connectionParams);
 //
